@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.card-box {
+  gap: 15px;
+}
+.card img:hover {
+  transform: scale(110%);
+}
+.search {
+  border: none;
+  outline: none;
+  width: 200px;
+}
+.show {
+  height: auto;
+  width: auto;
+  background-color: #d8d8d8;
+  border-radius: 15px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.show-car {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 15px;
+}

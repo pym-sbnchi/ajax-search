@@ -1,0 +1,92 @@
+[
+    {
+        "name":"Caterpillar mobile alfa",
+        "price":"$150",
+        "category":"Caterpillar",
+        "image":"image/1.webp"
+    },
+    {
+        "name":"Caterpillar mobile beta",
+        "price":"$100",
+        "category":"Caterpillar",
+        "image":"image/2.webp"
+    },
+    {
+        "name":"Caterpillar mobile gamma",
+        "price":"$160",
+        "category":"Caterpillar",
+        "image":"image/3.webp"
+    },
+    {
+        "name":"Caterpillar mobile delta",
+        "price":"$190",
+        "category":"Caterpillar",
+        "image":"image/4.webp"
+    },
+    {
+        "name":"Caterpillar mobile theta",
+        "price":"$200",
+        "category":"Caterpillar",
+        "image":"image/5.webp"
+    },
+    {
+        "name":"samsung mobile alfa",
+        "price":"$190",
+        "category":"samsung",
+        "image":"image/6.webp"
+    },
+    {
+        "name":"samsung mobile beta",
+        "price":"$300",
+        "category":"samsung",
+        "image":"image/7.webp"
+    },
+    {
+        "name":"samsung mobile gamma",
+        "price":"$250",
+        "category":"samsung",
+        "image":"image/8.webp"
+    },
+    {
+        "name":"samsung mobile delta",
+        "price":"$160",
+        "category":"samsung",
+        "image":"image/9.webp"
+    },
+    {
+        "name":"samsung mobile theta",
+        "price":"$140",
+        "category":"samsung",
+        "image":"image/10.webp"
+    },
+    {
+        "name":"redmi mobile alfa",
+        "price":"$240",
+        "category":"redmi",
+        "image":"image/11.webp"
+    },
+    {
+        "name":"redmi mobile beta",
+        "price":"$290",
+        "category":"redmi",
+        "image":"image/12.webp"
+    },
+    {
+        "name":"redmi mobile gamma",
+        "price":"$120",
+        "category":"redmi",
+        "image":"image/13.webp"
+    },
+    {
+        "name":"redmi mobile delta",
+        "price":"$245",
+        "category":"redmi",
+        "image":"image/14.webp"
+    },
+    {
+        "name":"redmi mobile theta",
+        "price":"$300",
+        "category":"redmi",
+        "image":"image/15.webp"
+    }
+]
